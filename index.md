@@ -4,7 +4,7 @@ title: 'SpaceNet'
 sidebar: default
 ---
 ## Hosting
-[SpaceNet](https://aws.amazon.com/public-datasets/spacenet/) is a corpus of commercial satellite imagery and labeled
+[SpaceNet](https://registry.opendata.aws/spacenet/) is a corpus of commercial satellite imagery and labeled
  training data to use for machine learning research. The dataset is currently hosted as an [Amazon Web Services (AWS) Public Dataset](https://aws.amazon.com/public-datasets/).
 
 ## Github Repositories
