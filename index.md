@@ -16,8 +16,7 @@ Check out our SpaceNet Utilities for some helpful tools for using geospatial dat
 5.  [SpaceNet Road Network Extraction and Routing Challenge](https://github.com/SpaceNetChallenge/RoadDetectors)
 
 ## Next Competition
-The next competition will be roads extraction.  See the [Roads Competition Page](/Competitions/Competition3.md) for more details
-
+The SpaceNet team is currently preparing for the next challenge to be launched in September 2018.  This challenge will focus on the use of Off-Nadir imagery for building footprint extraction.  Stay tuned for more information.
 
 ## Catalog
 1. [Area of Interest 1 (AOI 1) - Location: Rio de Janeiro.](/AOI_Lists/AOI_1_Rio.html) 50cm imagery collected from DigitalGlobe’s [WorldView-2 satellite](http://satimagingcorp.s3.amazonaws.com/site/pdf/WorldView-2_datasheet.pdf). The dataset includes building footprints and 8-band multispectral data.
