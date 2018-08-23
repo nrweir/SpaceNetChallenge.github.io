@@ -11,8 +11,9 @@ sidebar: default
 Check out our SpaceNet Utilities for some helpful tools for using geospatial data for machine learning
 1.  [SpaceNetUtilities](https://github.com/SpaceNetChallenge/utilities)
 2.  [Average Path Length Similarity (APLS) metric](https://github.com/CosmiQ/apls)
-3.  [SpaceNet Challenge Round 1 Solutions](https://github.com/SpaceNetChallenge/BuildingDetectors/)
-4.  [SpaceNet Challenge Round 2 Solutions](https://github.com/SpaceNetChallenge/BuildingDetectors_Round2)
+3.  [SpaceNet Building Footprint Challenge: Round 1 Solutions](https://github.com/SpaceNetChallenge/BuildingDetectors/)
+4.  [SpaceNet Building Footprint Challenge: Round 2 Solutions](https://github.com/SpaceNetChallenge/BuildingDetectors_Round2)
+5.  [SpaceNet Road Network Extraction and Routing Challenge](https://github.com/SpaceNetChallenge/RoadDetectors)
 
 ## Next Competition
 The next competition will be roads extraction.  See the [Roads Competition Page](/Competitions/Competition3.md) for more details
