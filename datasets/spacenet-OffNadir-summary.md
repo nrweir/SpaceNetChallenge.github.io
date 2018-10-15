@@ -49,23 +49,22 @@ aws s3 ls s3://spacenet-dataset/SpaceNet_Off-Nadir_Competition/
 ### 10 Samples from each Image -  Off-Nadir Imagery Samples
 To download processed 450mx450m tiles of AOI 2 (728.8 MB) with associated building footprints:
 ```
-aws s3 cp s3://spacenet-dataset/SpaceNet_Roads_Competition/SpaceNet_Roads_Sample.tar.gz .
+aws s3 cp s3://spacenet-dataset/SpaceNet_Off-Nadir_Competition/SpaceNet_Off-Nadir_Competition_Sample.tar.gz .
 ```
-
 
 
 ## Training Data
 ### AOI 6 Atlanta -  Building Footprint Extraction Training
 To download processed 450mx450m tiles of AOI 6 (202 GB):
 ```
-aws s3 cp  s3://spacenet-dataset/SpaceNet_Off-Nadir_Competition/SpaceNet_v4_Train.tar.gz .
+aws s3 cp  s3://spacenet-dataset/SpaceNet_Off-Nadir_Competition/SpaceNet_Off-Nadir_Competition_Train.tar.gz .
 ```
 
 ## Test Data
 ### AOI 2 - Vegas - Road Network Extraction  Testing
 To download processed 400mx400m tiles of AOI 2 (8.1 GB) for testing do:
 ```
-aws s3 cp  s3://spacenet-dataset/SpaceNet_Off-Nadir_Competition/SpaceNet_v4_Test.tar.gz .
+aws s3 cp  s3://spacenet-dataset/SpaceNet_Off-Nadir_Competition/SpaceNet_Off-Nadir_Competition_Test.tar.gz .
 ```
 
 # The Metric
