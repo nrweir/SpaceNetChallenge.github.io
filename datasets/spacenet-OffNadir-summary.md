@@ -24,7 +24,7 @@ The entire set of images was then tiled into 450m x 450m tiles.
 
 
 
-See the [labeling guide and schema](/assets/docs/SpaceNetBuildings_labeling_rules_v1.html) for details about the creation of the dataset
+See the [labeling guide and schema](/Labeling_Schema/SpaceNetBuildings_labeling_rules_v1.html) for details about the creation of the dataset
 
 
 <style type="text/css">
